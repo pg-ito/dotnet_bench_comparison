@@ -1,0 +1,32 @@
+ 12265888 dotnet6/bin/Release/net6.0/osx-arm64/publish/prime_num
+ 12362032 dotnet7/bin/Release/net7.0/osx-arm64/publish/prime_num
+ 2831976 dotnet8/bin/Release/net8.0/osx-arm64/publish/prime_num
+ 1417496 dotnet9/bin/Release/net9.0/osx-arm64/publish/prime_num
+===== scan prime nums for 1000000 =====
+SDK: 6.0.36
+===== found 78498 prime number(s) =====
+
+real	0m23.666s
+user	0m22.713s
+sys	0m0.181s
+===== scan prime nums for 1000000 =====
+SDK: 7.0.20
+===== found 78498 prime number(s) =====
+
+real	0m27.476s
+user	0m26.554s
+sys	0m0.190s
+===== scan prime nums for 1000000 =====
+SDK: 8.0.11
+===== found 78498 prime number(s) =====
+
+real	0m27.457s
+user	0m26.309s
+sys	0m0.181s
+===== scan prime nums for 1000000 =====
+SDK: 9.0.0
+===== found 78498 prime number(s) =====
+
+real	0m30.264s
+user	0m29.331s
+sys	0m0.196s
